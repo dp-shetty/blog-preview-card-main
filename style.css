@@ -81,3 +81,8 @@
     margin: 25px;
   }
 }
+@media screen and (width:360px) {
+  .main{
+    margin: 18px;
+  }
+}
