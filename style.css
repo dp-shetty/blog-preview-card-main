@@ -76,13 +76,40 @@
     font-size: 16px;
   }
 }
-@media screen and (width:375px) {
+
+@media screen and (width:320px) {
   .main{
-    margin: 25px;
+    margin-left: 0px;
   }
 }
+
 @media screen and (width:360px) {
   .main{
-    margin: 18px;
+    margin: 19px;
   }
 }
+
+@media screen and (width:375px) {
+  .main{
+    margin: 28px;
+  }
+}
+
+@media screen and (width:425px) {
+  .main{
+    margin: 50px;
+  }
+}
+
+@media screen and (width:768px) {
+  .main{
+    margin: 226px;
+  }
+}
+
+@media screen and (width:1024px) {
+  .main{
+    margin: 354px;
+  }
+}
+
